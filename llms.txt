@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي وروحي فيكِ واحدة
+> عيني في عينك والقلوب شاهدة
+> نار الشوق في الليل قايدة
+> حبنا قدرنا ومكتوب لنا فايدة
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
