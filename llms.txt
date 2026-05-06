@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/rouhak-w-rouhi-wahda-your-soul-and-my-soul-are-one/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get a Licensing Quote for Rouhak W Rouhi Wahda – Your Soul and My Soul Are One](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
