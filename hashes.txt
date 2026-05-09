@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Rouhak W Rouhi Wahda – Your Soul and My Soul Are One
+
+This log tracks the cryptographic history and versioning for the song **Rouhak W Rouhi Wahda – Your Soul and My Soul Are One** (rouhak-w-rouhi-wahda-your-soul-and-my-soul-are-one).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:29:32.692843 | `v1` | `ac01e88079cf62ffb48860168a7f1d226159103bf966cff289a29586adaabaf7` | `d287bf186c7bf2aee9177b52409783bb31d9ecb42e052777334f8aee53cb6a2f` | `2026-05-09_rouhak-w-rouhi-wahda-your-soul-and-my-soul-are-one-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
